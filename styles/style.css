@@ -10,12 +10,18 @@ html{
     background-color: #f8dbc9;
 }
 
+body{
+    font-family: 'Roboto';
+}
+
 .navegador{
-        font-family: ;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
     background-color: #f8dbc9;
 }
 
 .enlaces{
+    color: red;
     font-size: large;
     font-weight: bold;
 }
