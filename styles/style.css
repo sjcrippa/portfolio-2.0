@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color: #f8dbc9;
+}
+
+.navegador{
+        font-family: ;
+    background-color: #f8dbc9;
+}
+
+.enlaces{
+    font-size: large;
+    font-weight: bold;
+}
+
+.main-logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
